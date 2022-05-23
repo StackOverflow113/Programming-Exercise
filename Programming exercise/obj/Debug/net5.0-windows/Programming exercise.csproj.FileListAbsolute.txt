@@ -1,0 +1,20 @@
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\bin\Debug\net5.0-windows\Programming exercise.exe
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\bin\Debug\net5.0-windows\Programming exercise.deps.json
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\bin\Debug\net5.0-windows\Programming exercise.runtimeconfig.json
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\bin\Debug\net5.0-windows\Programming exercise.runtimeconfig.dev.json
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\bin\Debug\net5.0-windows\Programming exercise.dll
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\bin\Debug\net5.0-windows\ref\Programming exercise.dll
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\bin\Debug\net5.0-windows\Programming exercise.pdb
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Programming exercise.csproj.AssemblyReference.cache
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Programming_exercise.Form1.resources
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Programming exercise.csproj.GenerateResource.cache
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Programming exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Programming exercise.AssemblyInfoInputs.cache
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Programming exercise.AssemblyInfo.cs
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Programming exercise.csproj.CoreCompileInputs.cache
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Programming exercise.dll
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\ref\Programming exercise.dll
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Programming exercise.pdb
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Programming exercise.genruntimeconfig.cache
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\narut\Downloads\Programming Exercise\Programming exercise\Programming exercise\obj\Debug\net5.0-windows\Programming exercise.csproj.ResolveComReference.cache
